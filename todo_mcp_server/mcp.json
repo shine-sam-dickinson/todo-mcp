@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "todo-server": {
+      "command": "tsx",
+      "args": ["index.ts"]
+    }
+  }
+}
