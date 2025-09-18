@@ -2,6 +2,15 @@
 
 An example of an MCP server that connects to a REST endpoint.
 
+## Install Dependencies
+```
+cd todo_server
+pnpm install
+cd ../todo_mcp_server
+pnpm install
+pnpm install tsx --global
+```
+
 ## Running
 ```
 cd todo_server
